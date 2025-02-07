@@ -7,7 +7,6 @@ I enjoy tackling challenges and building efficient solutions.<br/>
 
 ![Timóteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrdimande&show_icons=true&theme=aura) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrdimande&&=true&theme=aura)
 ## Tech Stack
 
 <div style=" display: inline_block"><br/>
