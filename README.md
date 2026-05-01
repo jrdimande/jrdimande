@@ -1,4 +1,4 @@
-# Hi 👋, I'm Timoteo Dimande Junior
+# Hi 👋, I'm Timóteo Dimande Júnior
 
 🎓 Computer Science Student | Backend & AI Enthusiast 🇲🇿 Mozambique
 
