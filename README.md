@@ -42,8 +42,5 @@ I'm a Computer Science student who likes using technology to solve real problems
 
 ## 📊 GitHub Stats
 
-![Timoteo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrdimande&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrdimande&layout=compact&theme=default&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=jrdimande&theme=dark&hide_border=true)
 ---
