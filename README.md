@@ -39,8 +39,3 @@ I'm a Computer Science student who likes using technology to solve real problems
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jrdimande&theme=dark&hide_border=true)
----
