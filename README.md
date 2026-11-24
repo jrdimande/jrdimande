@@ -1,41 +1,70 @@
-# Hi 👋, I'm Timóteo Dimande Júnior
+<div align="center">
 
-🎓 Computer Science Student | Backend & AI Enthusiast 🇲🇿 Mozambique
+# Timóteo Dimande Júnior
 
-I'm a Computer Science student who likes using technology to solve real problems. My main interest is backend development — how systems work, how data flows, and what makes software solid and reliable. I'm also exploring Artificial Intelligence and getting more curious about it every day.
+### Computer Science Student · Backend & AI Enthusiast
 
----
+Mozambique
 
-## What I'm focusing on
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrdimande/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:timoteojrdimande@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jrdimande)
 
-- Algorithms & data structures
-- Database design & construction
-- Backend development
-- Building websites
-- Getting comfortable with Linux
-- Exploring AI on the side
+</div>
 
 ---
 
-## Tech Stack
+## A little about me
 
-**Languages**
+I enjoy using technology to solve real problems and learning how software works beneath the surface. I’m especially interested in backend development: how systems are put together, how data moves, and what makes software reliable.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+I’m also exploring Artificial Intelligence and building my foundations in algorithms, databases, web development, and Linux.
 
-**Frameworks & Databases**
+## What I’m learning
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <strong>● <font color="#ff5f56">●</font> <font color="#27c93f">●</font> &nbsp; currently-learning.txt</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1100&pause=650&color=58A6FF&background=0D1117&multiline=true&repeat=false&width=680&height=245&lines=timoteo%40github%3A~%24+cat+currently-learning.txt;%3E+Backend+development;%3E+Algorithms+and+data+structures;%3E+Database+design+and+construction;%3E+Web+development;%3E+Linux;%3E+Artificial+Intelligence"
+          alt="Terminal animation: typing cat currently-learning.txt and displaying current learning topics"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Tools & Environment**
+## Tools I use
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<table>
+  <tr>
+    <td width="180"><strong>Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=light" alt="Python, Java, JavaScript, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td><strong>Framework & database</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=django,mysql&theme=light" alt="Django, MySQL" /></td>
+  </tr>
+  <tr>
+    <td><strong>Tools & environment</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=light" alt="Git, Linux, VS Code" /></td>
+  </tr>
+</table>
 
----
+## GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jrdimande&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+
+Feel free to [connect on LinkedIn](https://www.linkedin.com/in/jrdimande/) or [send me an email](mailto:timoteojrdimande@gmail.com).
+
+</div>
