@@ -6,7 +6,7 @@
 
 Mozambique
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrdimande/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timot%C3%A9o-dimande-j%C3%BAnior-22b4b32a3/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:timoteojrdimande@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jrdimande)
 
@@ -65,6 +65,6 @@ I’m also exploring Artificial Intelligence and building my foundations in algo
 
 <div align="center">
 
-Feel free to [connect on LinkedIn](https://www.linkedin.com/in/jrdimande/) or [send me an email](mailto:timoteojrdimande@gmail.com).
+Feel free to [connect on LinkedIn](https://www.linkedin.com/in/timot%C3%A9o-dimande-j%C3%BAnior-22b4b32a3/) or [send me an email](mailto:timoteojrdimande@gmail.com).
 
 </div>
